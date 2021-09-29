@@ -1,2 +1,2 @@
 # first-assignment
-compute basic mathematical operations and showing its output
+This notebook contains the computation of mathematical multiplication of numbers
