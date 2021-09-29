@@ -1,2 +1,2 @@
 # first-assignment
-basic mathematical operations
+compute basic mathematical operations and showing its output
